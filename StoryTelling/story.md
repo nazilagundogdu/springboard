@@ -42,3 +42,7 @@ Please fill in your information below if you're interested in supporting our ani
 |                  |                  |                       |                                     |
 |                  |                  |                       |                                     |
 |                  |                  |                       |                                     |
+
+
+#
+To see the full report, please visit: https://github.com/nazilagundogdu/springboard/blob/main/StoryTelling/Analysis.ipynb
